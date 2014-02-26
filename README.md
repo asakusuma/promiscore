@@ -1,0 +1,4 @@
+promiscore
+==========
+
+Promise wrapper library
